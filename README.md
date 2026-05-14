@@ -2,6 +2,7 @@
 eVisure is a framework-independent cybersecurity and GRC tool designed to provide insights into audit readiness, risk distribution, and evidence quality through a streamlined and user-focused approach.
 
 Why eVisure?
+
 eVisure is designed to simplify and streamline compliance assessments through a framework-independent approach. Instead of being limited to a single standard, it allows organizations to perform flexible compliance evaluations across multiple security and governance frameworks.
 
 Key Features
