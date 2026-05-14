@@ -1,2 +1,2 @@
 # Evisure
-eVisure is a cybersecurity and GRC-focused tool designed to simplify security monitoring, compliance support, and risk visibility through an efficient and user-friendly interface.
+eVisure is a framework-independent cybersecurity and GRC tool designed to provide insights into audit readiness, risk distribution, and evidence quality through a streamlined and user-focused approach.I
